@@ -1,0 +1,327 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+header{
+    margin-top: 55px;
+}
+header .bg-light {
+    background-color: white !important;
+}
+header .navbar-light .navbar-nav .nav-link{
+    color: black !important;
+    font-weight: 400 !important;
+    font-family: roboto;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-top: -10px;
+}
+header .header-top p{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: roboto;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.header-top button{
+    border: 2px slod blue;
+    border-radius: 5px;
+    background: #6C60FE;
+    color: white;
+    font-weight: 500;
+    font-family: roboto;
+    padding:  6px 26px;
+}
+.header-top button:hover{
+    background-color: #8d89cc;
+    box-shadow: 2px 2px 10px rgb(87, 87, 208);
+}
+.header_title{
+    background: rgba(108, 96, 254, 0.05);
+    padding-top: 98px;
+    margin-top: 58px;
+    text-align: center;
+}
+.header_title h1{
+    font-size: 90px;
+    font-weight: 700;
+    font-family: roboto;
+    color: #09053F;
+    text-align: center;
+}
+.header_title p{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: roboto;
+    color: rgb(175, 174, 174);
+    line-height: 48px;
+    text-align: center;
+    margin-top: 18px;
+}
+.header_title button{
+    background: #6C60FE;
+    border: 2px solid #6C60FE;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: roboto;
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.header_title button:hover{
+    background-color: #8d89cc;
+    box-shadow: 2px 2px 10px rgb(87, 87, 208);
+}
+.header_title button i{
+    margin-right: 15px;
+}
+.header_bottom .hh{
+    margin-left: -50px;
+    width: 100%;
+}
+.header_bottom h2{
+    color: black;
+    font-weight: 500;
+    font-family: roboto;
+    text-align: center;
+    margin-top: 120px;
+    font-size: 45px;
+}
+section{
+    padding-top: 100px;
+}
+.section_top h2{
+    color: black;
+    font-size: 40px;
+    font-weight: 700px;
+    font-family: roboto;
+    line-height: 65px;
+    margin-bottom: 28px;
+}
+.section_top p{
+    font-size: 22px;
+    font-weight: 400;
+    font-family: roboto;
+    color: rgb(136, 135, 135);
+    line-height: 48px;
+}
+.section_top button{
+    background: #F6F6F9;
+border-radius: 10px;
+border: 2px solid #F6F6F9;
+padding: 10px 22px;
+margin-top: 20px;
+}
+.section_top button:hover{
+    background-color: #8d84ee;
+    color: white;
+    box-shadow: 2px 2px 10px rgb(87, 87, 208);
+
+}
+.section_midle h2{
+    color: black;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: roboto;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 28px;
+}
+.section_midle p{
+    font-size: 25px;
+    font-weight: 400;
+    font-family: roboto;
+    color: rgb(136, 135, 135);
+    text-align: center;
+}
+.section_midle .bor-der{
+    border: 2px solid  rgba(245, 245, 253, 0.5);
+    background:  rgba(245, 245, 253, 0.5);
+    text-align: center;
+    padding:  96px 55px;
+    margin-top: 80px;
+}
+.section_midle .bor-der:hover{
+    background: #d1e5fc;
+    box-shadow: 1px 1px 15px blue;
+}
+.section_midle img{
+    border: 2px solid white;
+    background: white;
+    padding: 23px 23px;
+    border-radius: 50%;
+}
+.section_midle h4{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 27px;
+    font-family: roboto;
+
+}
+.section_midle .bor-der p{
+    font-size: 15px;
+    margin-top: 15px;
+}
+.section_title h2{
+    color: black;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: roboto;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 28px;
+}
+.section_title button{
+    background: #F6F6F9;
+    border-radius: 10px;
+    border: 2px solid #F6F6F9;
+    padding: 10px 22px;
+    
+}
+.section_title button:hover{
+    background-color: #8d84ee;
+    color: white;
+    box-shadow: 2px 2px 10px rgb(87, 87, 208);
+}
+.section_title h3{
+    color: black;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: roboto;
+    margin-top: 100px;
+    margin-bottom: 49px;
+
+}
+.section_title p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: roboto;
+    color: rgb(136, 135, 135);
+}
+.section_bottom{
+    background: #2e23aa;
+    width: 100%;
+    text-align: center;
+}
+.section_bottom h2{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: roboto;
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.section_bottom p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: roboto;
+    color: rgb(136, 135, 135);
+    margin-top: 13px;
+}
+.section_end{
+    padding-top: 150px;
+    padding-bottom: 148px;
+}
+.section_end h3{
+    color: black;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: roboto;
+    margin-bottom: 40px;
+}
+.section_end p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: roboto;
+}
+.section_end h6{
+    color: rgb(136, 135, 135);
+}
+.section_end i{
+    border-radius: 50%;
+    border: 2px solid rgb(136, 135, 135);
+    color: white;
+    background: rgb(136, 135, 135);
+    padding: 5px 5px;
+    margin-right: 10px;
+}
+.section_end i:hover{
+    background: black;
+}
+main{
+   background: url(./img/back.png) no-repeat center center / cover;
+   width: 100%;
+   text-align: center;
+}
+main h2{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: roboto;
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 44px;
+}
+main input{
+    padding: 20px 50px;
+    font-size: 20px;
+}
+main button{
+    border: 2px solid 5045D2;
+    padding: 15px 15px;
+    margin-left: -90px;
+    background: #5045D2;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+}
+main .position{
+    margin-bottom: 66px;
+}
+footer{
+    padding-top: 174px;
+}
+
+.footer_top h6{
+    color: black;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: roboto;
+}
+.footer_top p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: roboto;
+    color: rgb(136, 135, 135);
+}
+.footer_top p:hover{
+    color: #0e056b;
+}
+.footer_top .pp{
+    margin-top: 10px;
+    line-height: 35px;
+}
+.footer_bottom{
+    background: #5045D2;
+}
+.footer_bottom p{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
